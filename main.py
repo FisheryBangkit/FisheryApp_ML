@@ -33,7 +33,7 @@ def index():
     image_bytes = file.read()
     img = Image.open(io.BytesIO(image_bytes))
     img = img.resize((300, 300), Image.NEAREST)
-    pred_img = predict_label(img)
+    pred_label = predict_label(img)
 
     #object JSON
     prediction = {"prediction": pred_label}
