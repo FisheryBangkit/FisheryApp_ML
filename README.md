@@ -12,4 +12,4 @@ Our Team
 | ------------ | ------------ | ------------ | ------------ |
 | Sanda Nurseska Yudha | M287BSY1878 | Machine Learning | [Github]() & [Linkedin]() |
 | Annisa Aghnia Nadhiroh | M198BSX0265  | Machine Learning | [Github](https://github.com/Mamenajah) & [Linkedin](https://www.linkedin.com/in/annisa-nadhiroh-2627432a1/) |
-| Gugus Adhi Gumilang | M287BSY1880  | Machine Learning | [Github]() & [Linkedin]() |
+| Gugus Adhi Gumilang | M287BSY1880  | Machine Learning | [Github](https://github.com/GugusGumilang) & [Linkedin](https://www.linkedin.com/in/gugus-gumilang-651bba216/) |
